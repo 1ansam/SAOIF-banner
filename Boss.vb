@@ -1,4 +1,3 @@
-Dim i=0
 
 Do
 Dim greyOkX, greyOkY
